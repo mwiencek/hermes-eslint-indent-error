@@ -1,0 +1,11 @@
+{
+  "name": "hermes-eslint-indent-error",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Michael Wiencek <mwtuea@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "8.46.0",
+    "hermes-eslint": "0.15.1"
+  }
+}

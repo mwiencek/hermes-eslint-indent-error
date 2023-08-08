@@ -1,0 +1,6 @@
+root: true
+
+parser: "hermes-eslint"
+
+rules:
+  indent: error
